@@ -1,1 +1,1 @@
-In this lab I used Git and Github to learn how to manage branches. The first task was to initialize my Git repository and ensure it contains the required files. I was also tasked with making atleast two meaningful commits, creating branches and deploying on GitHub pages.
+In this lab I used Git and Github to learn how to manage branches. The first task was to initialize my Git repository and ensure it contains the required files. I was also tasked with making atleast two meaningful commits, creating branches and deploying on GitHub pages.git 
